@@ -1,0 +1,24 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: microPower1.PcbDoc   07/04/2013  19:53:32
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : microPower1-RoundHoles.TXT
+ASCII SlotHoles File : microPower1-SlotHoles.TXT
+EIA File   : microPower1.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        12mil (0.3048mm)         Round          19               2.92 Inch (74.19 mm)
+T2        13mil (0.3302mm)         Round          4                0.14 Inch (3.60 mm)
+T3        15mil (0.381mm)          Round          16               3.33 Inch (84.55 mm)
+T4        15.7mil (0.39878mm)      Slot           3                287.08 Inch (7291.89 mm)
+T5        23.6mil (0.59944mm)      Round          2                0.05 Inch (1.27 mm)
+T6        28mil (0.7112mm)         Round          2                0.93 Inch (23.57 mm)
+T7        29.5mil (0.7493mm)       Round          2                0.08 Inch (2.00 mm)
+T8        59.1mil (1.50114mm)      Round          1                0.00 Inch (0.00 mm)
+T9        118.1mil (2.99974mm)     Round          4                4.14 Inch (105.03 mm)
+---------------------------------------------------------------------------
+Totals                                            53               298.67 Inch (7586.10 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

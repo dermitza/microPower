@@ -1,0 +1,26 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [microPower.PrjPCB]
+   Generated File[microPower1.GTL]
+   Generated File[microPower1.GBL]
+   Generated File[microPower1.GPB]
+   Generated File[microPower1.GPT]
+   Generated File[microPower1.GTO]
+   Generated File[microPower1.GTP]
+   Generated File[microPower1.GTS]
+   Generated File[microPower1.GBS]
+   Generated File[microPower1.GBP]
+   Generated File[microPower1.GBO]
+   Generated File[microPower1.GM1]
+   Generated File[microPower1.GM13]
+   Generated File[microPower1.GM15]
+   Generated File[microPower1.GKO]
+   Generated File[microPower1.RUL]
+   Generated File[microPower1.EXTREP]
+   Generated File[microPower1.REP]
+
+
+Files Generated   : 17
+Documents Printed : 0
+
+Finished Output Generation At 19:54:09 On 07/04/2013
